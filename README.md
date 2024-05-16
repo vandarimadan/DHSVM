@@ -1,6 +1,6 @@
 # DHSVM
 # Title: Creating stream Network and Stream Map for DHSVM Model
-# ORG:Pacific Northwest National Laboratory
+# ORG: Pacific Northwest National Laboratory
 # AUTHOR:Zhuoran Duan
 # ORIG-DATE:    Apr-2017
 # Updated by: Madan Raj Bhandari
